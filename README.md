@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+<<<<<< HEAD
 #Overtale-Python-Quest
 
 This is just me studying Python from my university circle 'Overtale'
@@ -8,9 +8,9 @@ This is just me studying Python from my university circle 'Overtale'
 I coded Calender calculator, Coin calculator, Temperature calculator and 
 =======
 # Overtale-Python-Quest
-This is just me studying Python from my university circle 'Overtale'
+## This is just me studying Python from my university circle 'Overtale'
 
--From first week study
+#### From first week study
 
 I coded Calender calculator, Coin calculator, Temperature calculator and
 >>>>>>> e1ebfe94dcdb1db30148066a1fb36793409e74f7
