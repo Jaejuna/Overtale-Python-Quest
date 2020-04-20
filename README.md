@@ -1,12 +1,9 @@
 # Overtale-Python-Quest
 
-### From first week study I coded Calender calculator, Coin calculator, 
-### Temperature calculator and Loan rate calculator programs.
+### From first week study I coded Calender calculator, Coin calculator, Temperature calculator and Loan rate calculator programs.
 
-Click the CalenderCalc.py to change year and month to day.
+These programs are in the directory "1주차 과제"
 
-Click the CoinCalc.py to calculate the Korean coins.
+### From second week study I coded Leap year comfirming program, sigma & fatorial function and a program that can find minimum number among three numbers.
 
-Click the TempCalc.py to change Fahrenheit to Celsius.
-
-Click the LoanCalc.py to calculate Loan rate.
+These programs are in the directory "2주차 과제"
